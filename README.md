@@ -1,2 +1,2 @@
 # gitch
-Unofficial desktop client for itch.io
+Unofficial Desktop client for [itch.io](https://itch.io/)
